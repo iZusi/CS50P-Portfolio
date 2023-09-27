@@ -1,0 +1,9 @@
+### Problem Set 3 - Week 3 (Exceptions)
+- [fuel.py](./fuel.py):The task here was to implement a program that would prompt the user for a fraction in the format X/Y, where both X and Y are integers. After receiving this input, the program should then provide the amount of fuel in the tank as a percentage rounded to the nearest integer. If there is only 1% or less of fuel remaining, it should output "E" to indicate that the tank is essentially empty. Conversely, if 99% or more of fuel remains, it should output "F" to indicate that the tank is essentially full.
+- 
+- [taqueria.py](./taqueria.py):  The task was to create a program that allowed a user to place an order. The program would prompt the user to enter items, one per line, until the user terminated their input using ctrl-d (a common method for ending input). After each item was entered, the program would display the total cost of all items entered so far, formatted with a dollar sign ($) and rounded to two decimal places. The program would be case-insensitive when processing the user's input, and any input that wasn't recognized as an item would be ignored. It was assumed that all menu items would be in title case.
+- 
+- [grocery.py](./grocery.py):  A program that accepts a list of items from the user until they use ctrl-d to finish. Then, it displays the sorted, uppercase grocery list with item counts, treating user input as case-insensitive and ignoring plurals.
+  
+- [outdated.py](./outdated.py):  This code does the simple work of taking a date input in different formats, validates it, and then prints it in the YYYY/MM/DD format.
+  
