@@ -16,7 +16,6 @@ while True:
             # Generate a random number between 1 and n (inclusive)
             output = random.randint(1, n)
     except ValueError:
-        # Handle non-integer inputs gracefully and continue the loop
         continue
 
     # Start an inner loop for the guessing game
@@ -39,9 +38,8 @@ while True:
             # Check if the guess is equal to the random number, indicating a correct guess
             elif guess == output:
                 print("Just right!")
-                break  # Exit the inner loop when the guess is correct
+                break
         except ValueError:
-            # Handle non-integer inputs gracefully and continue the loop
             pass
 
     # Exit the outer loop to end the game
