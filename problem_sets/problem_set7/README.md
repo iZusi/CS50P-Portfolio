@@ -1,0 +1,10 @@
+### Problem Set 7 - Week 7 (Regular Expressions)
+
+- [numb3r.py](./numb3rs/numb3rs.py):  This program implements a function named 'validate' that operates as follows: it expects an IPv4 address in the form of a string as input and then returns 'True' if the provided input is a valid IPv4 address; otherwise, it returns 'False.' The primary purpose of this function is to validate IPv4 addresses and determine their validity based on the input provided.
+- [test_numb3rs.py](./numb3rs/test_numb3rs.py):  In 'test_numb3rs.py,' two functions, both starting with "test_," assess the 'validate' function's implementation within the 'numb3rs' module. Using 'pytest test_twttr.py,' these tests are executed to ensure the function's accuracy and compliance with module requirements.
+  
+- [watch.py](./watch/watch.py):  This code utilizes the 're' library to extract a YouTube video URL from an HTML snippet. The 'parse' function searches for the first matching URL and generates the 'youtu.be' equivalent. In the 'main' function, it prompts the user for HTML input and prints the extracted URL. The code offers a simple way to convert embedded YouTube video URLs to 'youtu.be' format within HTML.
+
+- [working.py](./working/working.py):  This code converts time from a 12-hour clock format (with AM/PM indicators) to a 24-hour format. It uses regex to validate and parse the input time string, ensuring it adheres to the expected format. The 'convert' function handles validation, and if the input is valid, it invokes the 'convert_to_24' function to perform the conversion. The 'main' function prompts the user for input, performs the conversion, and prints the result. If the input format is incorrect, it exits with a 'ValueError' message.
+- [test_working.py](./working/test_working.py):  This code features pytest test cases for two functions: 'convert_to_24' and 'convert'. 'test_convert_to_24' assesses time format conversions, covering both valid and invalid inputs. 'test_convert' validates the 'convert' function, addressing various input scenarios and handling exceptions for error cases to ensure code robustness.
+  
