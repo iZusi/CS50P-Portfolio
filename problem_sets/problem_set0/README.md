@@ -1,5 +1,5 @@
 ### Problem Set 0 - Week 0 (Functions, Variables)
-- [indoor.py](./problem_sets/problem_set0/indoor.py):  Here, I implemented a program in Python that prompts the user for input and then outputs that same input in lowercase. The code takes the user input, converts it to lowercase, removes leading and trailing whitespace, and then prints the modified input.
+- [indoor.py](./problem_set0/indoor.py):  Here, I implemented a program in Python that prompts the user for input and then outputs that same input in lowercase. The code takes the user input, converts it to lowercase, removes leading and trailing whitespace, and then prints the modified input.
   
 - [playback.py](./problem_sets/problem_set0/playback.py):  Here, I implemented a program in Python that prompts the user for input and then outputs that same input, replacing each space with ... (i.e., three periods). My code takes the user input, removes leading/trailing whitespace, and replaces all spaces with three consecutive periods ('...') before printing the modified input.
   
