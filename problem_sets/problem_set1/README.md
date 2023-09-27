@@ -1,5 +1,5 @@
 ### Problem Set 1 - Week 1 (Conditionals)
-- [deep.py](./problem_sets/problem_set1/deep.py):  Here, I implemented a program that prompts the user for the answer to the Great Question of Life, the Universe and Everything, outputting Yes if the user inputs 42 or (case-insensitively) forty-two or forty two.
+- [deep.py](./problem_sets/problem_set1/deep.py):    Here, I implemented a program that prompts the user for the answer to the Great Question of Life, the Universe and Everything, outputting Yes if the user inputs 42 or (case-insensitively) forty-two or forty two.
   
 - [playback.py](./problem_sets/problem_set0/playback.py):  Here, I implemented a program in Python that prompts the user for input and then outputs that same input, replacing each space with ... (i.e., three periods). My code takes the user input, removes leading/trailing whitespace, and replaces all spaces with three consecutive periods ('...') before printing the modified input.
   
