@@ -1,29 +1,28 @@
 import sys
 import requests
 
-
 try:
-    # check if command-line argument is empty
+    # Check if a command-line argument is provided
     if len(sys.argv) < 2:
-        sys.exit("Missing command-line argument")
+        sys.exit("Missing command-line argument")  # Exit with an error message if no argument is provided
 
-    # get the number of Bitcoins from the command-line argument
+    # Get the number of Bitcoins from the command-line argument and convert it to a float
     n_bitcoins = float(sys.argv[1])
 
-    # store link in a variable and make a request
+    # Define the API link for retrieving Bitcoin exchange rates and make a GET request
     link = "https://api.coindesk.com/v1/bpi/currentprice.json"
     r = requests.get(link)
 
-    # get the json content and store in a variable
+    # Get the JSON content from the response and store it in a variable
     data = r.json()
 
-    # get floating-point value current Bitcoin rate in USD
+    # Get the floating-point value of the current Bitcoin rate in USD from the JSON data
     current_price = data["bpi"]["USD"]["rate_float"]
 
-    # calculate the total cost
+    # Calculate the total cost by multiplying the number of Bitcoins with the current rate
     total = n_bitcoins * current_price
 
-    # print result
+    # Print the total cost with proper formatting
     print(f"${total:,.4f}")
 
 except (ValueError, requests.RequestException):
