@@ -1,6 +1,6 @@
 # My-CS50-Python-Programming-Journey
 
-Welcome to my CS50 Introduction to Python Programming Journey repository! Here, I document my progress and showcase the Python projects and problem sets I've worked on during my introductory Python programming course.
+Welcome to my Python Programming Journey Repository! Here, I document my educational progress, highlighting a collection of Python problem-solving challenges undertaken during my CS50 introductory Python programming course.
 
 ## Problem Sets
 
