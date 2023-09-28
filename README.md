@@ -1,6 +1,6 @@
-# My-CS50-Python-Programming-Journey
+# CS50P Portfolio
 
-Welcome to my Python Programming Journey Repository! Here, I document my educational progress, highlighting a collection of Python problem-solving challenges undertaken during my CS50 introductory Python programming course.
+Welcome to my CS50 Introduction to Python Programming project repository! Here, you'll find a collection of the problem sets that I've completed as part of the course. Each problem set is located in its respective directory.
 
 ## Problem Sets
 
@@ -27,3 +27,11 @@ Welcome to my Python Programming Journey Repository! Here, I document my educati
 
 ### Problem Set 7 - Week 7 (Regular Expressions)
 - [problem_set7](./problem_sets/problem_set7)
+
+## About Me
+
+I'm passionate about programming and continue to learn and explore new technologies. This repository showcases my progress in Python programming through the Havard's CS50P course. Feel free to explore the code, provide feedback, or reach out for collaboration opportunities.
+
+If you have any questions or would like to connect, you can find me on [LinkedIn](https://www.linkedin.com/in/iomozusi).
+
+Happy coding!
