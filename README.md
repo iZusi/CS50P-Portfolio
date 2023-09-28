@@ -1,9 +1,9 @@
 # CS50P Portfolio
 
-Welcome to my CS50 Introduction to Python Programming project repository! Here, you'll find a collection of the problem sets that I've completed as part of the course. Each problem set is located in its respective directory.
+Welcome to my CS50 Introduction to Programming with Python repository! Here, you'll find a collection of the problem sets that I've completed as part of the course. Each problem set is located in its respective directory.
 
 ## Introduction
-I am Iyke Omozusi, and I have embarked on the CS50 Introduction to Python Programming journey with the goal of enhancing my proficiency in Python programming. This repository serves as a comprehensive record of my journey, documenting the skills I have honed and the progress I have made throughout the course."
+I am Iyke Omozusi, and I have embarked on the CS50 Introduction to Programming with Python journey with the goal of enhancing my proficiency in Python programming. This repository serves as a comprehensive record of my journey, documenting the skills I have honed and the progress I have made throughout the course."
 
 ## Problem Sets
 
