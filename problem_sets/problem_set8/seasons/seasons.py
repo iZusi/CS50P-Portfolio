@@ -32,7 +32,7 @@ def get_birthday(birthdate):
     # calculate age difference in minutes
     age_in_mins = age_diff.days * 24 * 60
 
-    # convert the age in minutes to words in an American date format
+    # convert the age in minutes to words, stripping 'and' from the output
     age_in_words = p.number_to_words(age_in_mins, andword="")
 
     return age_in_words.capitalize()
