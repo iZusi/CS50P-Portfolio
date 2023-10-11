@@ -7,21 +7,23 @@ I am Iyke Omozusi, and I have embarked on the CS50 Introduction to Programming w
 
 ## Problem Sets
 
-- [problem_set0](./problem_sets/problem_set0): Functions, Variables
+- [Problem Set 0](./problem_sets/problem_set0): Functions, Variables
 
-- [problem_set1](./problem_sets/problem_set1): Conditionals
+- [Problem Set 1](./problem_sets/problem_set1): Conditionals
 
-- [problem_set2](./problem_sets/problem_set2): Loops
+- [Problem Set 2](./problem_sets/problem_set2): Loops
 
-- [problem_set3](./problem_sets/problem_set3): Exceptions
+- [Problem Set 3](./problem_sets/problem_set3): Exceptions
 
-- [problem_set4](./problem_sets/problem_set4): Libraries
+- [Problem Set 4](./problem_sets/problem_set4): Libraries
 
-- [problem_set5](./problem_sets/problem_set5): Unit Tests
+- [Problem Set 5](./problem_sets/problem_set5): Unit Tests
 
-- [problem_set6](./problem_sets/problem_set6): File I/O
+- [Problem Set 6](./problem_sets/problem_set6): File I/O
 
-- [problem_set7](./problem_sets/problem_set7): Regular Expressions (Regexes)
+- [Problem Set 7](./problem_sets/problem_set7): Regular Expressions (Regexes)
+
+- [Problem Set 8](./problem_sets/problem_set8): Object-oriented Programming
 
 ## Contributions
 Throughout this course, I've learned valuable skills in problem-solving, algorithm design, and coding in Python. I've documented my solutions in the individual README files within each problem set directory.
