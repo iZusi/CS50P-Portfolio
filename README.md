@@ -25,6 +25,8 @@ I am Iyke Omozusi, and I have embarked on the CS50 Introduction to Programming w
 
 - [Problem Set 8](./problem_sets/problem_set8): Object-Oriented Programming (OOP)
 
+- [Final Project](https://github.com/iZusi/air_shooter)
+
 ## Contributions
 Throughout this course, I've learned valuable skills in problem-solving, algorithm design, and coding in Python. I've documented my solutions in the individual README files within each problem set directory.
 
