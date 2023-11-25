@@ -36,4 +36,11 @@ Feel free to explore my work and see how I tackled the challenges presented in t
 
 I love to code and continue to learn and explore new technologies. This repository showcases my progress in Python programming through the Havard's CS50P course. Feel free to explore the codes, provide feedback, or reach out for collaboration opportunities.
 
-If you have any questions or would like to connect, you can find me on [LinkedIn](https://www.linkedin.com/in/iomozusi).
+If you have any questions or would like to connect, you can find me on <p align="left">
+  <a href="mailto:iyke.zusi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/iomozusi/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
+</p>
